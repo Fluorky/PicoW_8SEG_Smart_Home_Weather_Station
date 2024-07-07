@@ -12,6 +12,8 @@ wifi_password = "password"
 Wi-fi network what you want to use must be 2.4GHz network, because the Raspberry Pico W don't have 5GHz wi-fi module.  
 Next you must upload folder contents picoWfiles to Raspberry Pico W.
 
+To upload project to pico you can use upload_to_pico.py python script.
+
 To see how it works and how it connects, please watch "8SEG_PICOW_THERMOMETER_movie.mp4" and view
 "8SEG_PICOW_THERMOMETER_Photo.jpg." in .movie folder.
 

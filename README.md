@@ -1,4 +1,5 @@
-# 8SEG-PICOW-THERMOMETER-HOME-KIT
+# WeatherStationSmartHomeBackend
+Weather station integrated with a smart home system
 
 Project is based on my other project https://github.com/Fluorky/8SEG-PICOW-THERMOMETER/
 Real time thermometer using PicoW, 8 SEG display and internal thermal sensor.  
@@ -14,5 +15,5 @@ Next you must upload folder contents picoWfiles to Raspberry Pico W.
 To see how it works and how it connects, please watch "8SEG_PICOW_THERMOMETER_movie.mp4" and view
 "8SEG_PICOW_THERMOMETER_Photo.jpg." in .movie folder.
 
-Added Home Kit.
+
 

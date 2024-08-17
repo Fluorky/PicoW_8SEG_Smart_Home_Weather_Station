@@ -3,7 +3,7 @@ import subprocess
 
 port = '/dev/tty.usbmodem14101'
 local_folder = 'picoWfiles'
-files_to_upload = ['thermometer8seg.py', 'config.py', '__init__.py', 'main.py', 'wificonnection.py']
+files_to_upload = ['display.py', 'config.py', '__init__.py', 'main.py', 'sensor.py', 'networking.py']
 
 all_files_uploaded = True
 

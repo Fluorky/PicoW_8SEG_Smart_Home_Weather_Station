@@ -1,4 +1,4 @@
-# WeatherStationSmartHomeBackend
+# PicoW 8SEG Smart Home Weather Station
 Weather station integrated with a smart home system
 
 Project is based on my other project https://github.com/Fluorky/8SEG-PICOW-THERMOMETER/
